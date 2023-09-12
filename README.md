@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+its Farseen who have strong passion in IT
 <!--
 **FNK-bot/FNK-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
